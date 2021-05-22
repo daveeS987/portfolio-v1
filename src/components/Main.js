@@ -35,7 +35,7 @@ class Main extends React.Component {
           <p>My name is Davee.</p>
           <p>Currently work in progress....</p>
           <p>
-            Check out my <a href="https://github.com/daveeS987">work</a>.
+            Check out my <a href="https://github.com/daveeS987">github</a>
           </p>
           {close}
         </article>
@@ -48,10 +48,10 @@ class Main extends React.Component {
           style={{ display: 'none' }}
         >
           <h2 className="major">Projects</h2>
+          <p>Below is a list of my past projects.</p>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
-          <p>Below is a list of my past projects.</p>
           <p>More Coming Soon.......</p>
           {close}
         </article>
