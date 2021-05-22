@@ -35,7 +35,7 @@ class Main extends React.Component {
           <p>My name is Davee.</p>
           <p>Currently work in progress....</p>
           <p>
-            Check out my <a href="#work">work</a>.
+            Check out my <a href="https://github.com/daveeS987">work</a>.
           </p>
           {close}
         </article>
